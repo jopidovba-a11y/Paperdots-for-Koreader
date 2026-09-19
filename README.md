@@ -27,7 +27,6 @@ The dots are drawn only over near-white pixels right before each screen refresh,
 
 - Adjustable density, dot size, and dot brightness range
 - Apply to the whole device or only while a book is open
-- Settings are saved between sessions
 
 ## Installation
 
