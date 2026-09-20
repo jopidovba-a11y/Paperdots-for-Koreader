@@ -31,6 +31,28 @@ The dots are drawn only over near-white pixels right before each screen refresh,
   </table>
 </p>
 
+## Features
+
+- Adjustable density, dot size, and dot brightness range
+- Apply to the whole device or only while a book is open
+- NEW: select between different styles
+
+## Installation
+
+1. Copy the `paperdots.koplugin` folder into KOReader's `plugins` directory.
+   
+2. Restart KOReader.
+
+## Usage
+
+Open a book, tap the top of the screen, and go to the second tab (Document) > Paper dots.
+
+- Enable: turns the effect on or off
+- Only inside books: skips the file browser and other screens
+- Density: percentage of pixels covered by dots
+- Dot size: size of each dot in pixels
+- Darkest dot / Lightest dot: brightness range of the dots (0 = black)
+- Reset to defaults
 
 # Notes
 
