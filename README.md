@@ -35,7 +35,8 @@ The dots are drawn only over near-white pixels right before each screen refresh,
 
 - Adjustable density, dot size, and dot brightness range
 - Apply to the whole device or only while a book is open
-- NEW: select between different styles
+- Select between different styles
+- Toggle it on/off using its own gesture (Gesture manager>your favorite gesture>general>toggle paperdots)
 
 ## Installation
 
@@ -46,6 +47,7 @@ The dots are drawn only over near-white pixels right before each screen refresh,
 ## Usage
 
 Open a book, tap the top of the screen, and go to the second tab (Document) > Paper dots.
+NEW: Now you can also open it from the main menu in the file browser setting (first icon at the top). 
 
 - Enable: turns the effect on or off
 - Only inside books: skips the file browser and other screens
